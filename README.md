@@ -79,7 +79,7 @@ python src/evaluate.py
 ```bash
 python notebooks/eda.py
 ```
-![EDA](screenshots/sample_data.png)
+![EDA](screenshots/EDA_sample_data.png)
 
 ### Run Streamlit App
 ```bash
@@ -97,7 +97,7 @@ This will launch a web app in your browser where you can input customer reviews 
 - **TF-IDF + Logistic Regression** – Classical ML model.
 ![TF-IDF + Logistic Regression Accuracy](screenshots/TF_IDF+LR.png)
 - **DistilBERT** – Transformer model fine-tuned on Yelp dataset.
-![DistilBERT Accuracy](screenshots\model_transformer.png)
+![DistilBERT Accuracy](screenshots/model_transformer.png)
 
 ---
 
