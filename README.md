@@ -87,9 +87,9 @@ This will launch a web app in your browser where you can input customer reviews 
 ## 📊 Models
 
 - **Baseline (VADER)** – Rule-based sentiment analyzer.
-![VADER Accuracy](Screenshots/VADER.png)
+![VADER Accuracy](screenshots/VADER.png)
 - **TF-IDF + Logistic Regression** – Classical ML model.
-![TF-IDF + Logistic Regression Accuracy](Screenshots/TF_IDF+LR.png)
+![TF-IDF + Logistic Regression Accuracy](screenshots/TF_IDF+LR.png)
 - **DistilBERT** – Transformer model fine-tuned on Yelp dataset.
 ![DistilBERT Accuracy](screenshots\model_transformer.png)
 
@@ -102,7 +102,7 @@ This will launch a web app in your browser where you can input customer reviews 
 ---
 
 ## 📷 Streamlit Web Screenshots
-![Streamlit Screenshot](Screenshots/app_positive.png)
+![Streamlit Screenshot](screenshots/app_positive.png)
 
 ---
 
