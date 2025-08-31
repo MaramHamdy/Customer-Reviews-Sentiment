@@ -75,6 +75,12 @@ python src/model_transformer.py
 python src/evaluate.py
 ```
 
+### EDA
+```bash
+python notebooks/eda.py
+```
+![EDA](screenshots/sample_data.png)
+
 ### Run Streamlit App
 ```bash
 streamlit run app/streamlit_app.py
